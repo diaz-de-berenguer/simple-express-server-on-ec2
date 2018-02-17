@@ -1,5 +1,5 @@
 {
-  "name": "node-server",
+  "name": "simple-express-server-on-ec2",
   "version": "1.0.0",
   "description": "Created by following tutorial: https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171",
   "main": "index.js",
@@ -7,8 +7,16 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaz-de-berenguer/simple-express-server-on-ec2.git"
+  },
   "author": "Diego Diaz de Berenguer",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaz-de-berenguer/simple-express-server-on-ec2/issues"
+  },
+  "homepage": "https://github.com/diaz-de-berenguer/simple-express-server-on-ec2#readme",
   "dependencies": {
     "express": "^4.16.2"
   }
