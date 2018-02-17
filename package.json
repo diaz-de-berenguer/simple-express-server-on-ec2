@@ -1,0 +1,11 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Created by following tutorial: https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Diaz de Berenguer",
+  "license": "ISC"
+}
